@@ -1,0 +1,131 @@
+body{
+ color: black;
+font-family:Times New Roman, monospace;
+font-size: 40px;
+line-height: 1,3;
+letter-spacing: 1;
+font-weight: 100;
+font-weight: bold;
+text-align: center;
+margin: 0px;
+padding: 0px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-picture {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    margin: 50px auto;
+    overflow: hidden;
+}
+
+.profile-picture img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.background-container {
+    background-image: url(https://static.vecteezy.com/ti/photos-gratuite/p1/22505562-blanc-gris-brique-mur-fonce-contexte-pierre-fond-d-ecran-ciment-beton-gratuit-photo.jpeg);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    width: 100%; 
+    height: 400px;
+    overflow: hidden;
+}
+
+.background-container1 {
+    background-image: url(https://images5.alphacoders.com/132/1325121.png);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    width: 100%; 
+    height: 1800px;
+    overflow: hidden;
+}
+
+
+h1{
+  font-family:Times New Roman, monospace;
+    font-size: 70px;
+    line-height: 1,2;
+    letter-spacing: 0,8
+}
+
+h2{
+  font-family:Times New Roman, monospace;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0,8
+}
+h3{
+  font-family: Times New Roman, monospace;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0,8
+
+}
+h4{
+  font-family: Times New Roman, monospace;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0,8
+}
+
+
+h5{
+  font-family: Times New Roman, monospace;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0,8
+}
+
+h6{
+  font-family: Times New Roman, monospace;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0,8
+}
+
+p{
+   font-family: Times New Roman, monospace;
+    font-size: 40px;
+    line-height: 1,2;
+    letter-spacing: 0,8
+    margin:20px auto;
+}
+
+p1{
+   font-family: Times New Roman, monospace;
+    font-size: 20px;
+    line-height: 1,2;
+    letter-spacing: 0,8
+}
+
+.container{
+    width: 700px;
+    margin: 30px auto;
+}
+
+.card-white {
+  background: white;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+
+.social-button img {
+    width: 40px; 
+    height: 40px; 
+    padding: 20px;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    margin: 10px;
+    padding: 10px
+}
